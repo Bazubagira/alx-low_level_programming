@@ -1,0 +1,1 @@
+This project is about understanding C program compilation process.
