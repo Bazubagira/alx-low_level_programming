@@ -1,0 +1,1 @@
+This folder contains files about more singly linked lists.
