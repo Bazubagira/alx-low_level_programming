@@ -1,0 +1,1 @@
+This folder contains files with codes of Dynamic libraries.
