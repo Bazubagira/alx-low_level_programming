@@ -1,0 +1,3 @@
+A makefile is a special file, containing shell commands, that you create and name makefile (or Makefile depending upon the system). While in the directory containing this makefile, you will type make and the commands in the makefile will beexecuted. If you create more than one makefile, be certain you are in the correct directory before typing make.
+
+We are going to show some codes about makefile in this repo.
